@@ -1,6 +1,6 @@
 # Olá! Eu sou Pablo Henrique
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&height=100&lines=Bem-vindo+ao+meu+GitHub!;Back-end+Developer;Apaixonado+por+Node.js)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&height=100&lines=BBem-vindo+ao+meu+GitHub!;Back-end+Developer;Apaixonado+por+Node.js)
 
 Sou um desenvolvedor back-end com foco em construir APIs RESTful escaláveis e seguras. Abaixo estão as principais tecnologias que utilizo.
 
