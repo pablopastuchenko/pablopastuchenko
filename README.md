@@ -30,7 +30,7 @@ Sou um desenvolvedor fullstack com foco em construir aplicações e APIs RESTful
 - [Delivery](https://github.com/pablopastuchenko/delivery): Backend para sistema de entregas.
 - [Course-Page](https://github.com/pablopastuchenko/Course-Page): Aplicativo para vender cursos online, focando em uma experiência de aprendizado interativa.
 - [Java Login](https://github.com/pablopastuchenko/javaLogin): Sistema de Login com APIs Restful com Java.
-- [Sass](https://github.com/pablopastuchenko/Sass): Projeto utilizando TypeScript, PostgreSQL e Prisma para gestão de dados.
+- [E-commerce Java](https://github.com/pablopastuchenko/E-commerce-backend-java): Projeto utilizando Java, Spring Boot e MySQL.
 
 
 
