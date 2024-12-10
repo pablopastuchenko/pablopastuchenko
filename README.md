@@ -22,48 +22,31 @@ Sou um desenvolvedor backend independente, apaixonado por criar soluções digit
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-### 📺 Projetos
-
-Aqui estão alguns dos meus principais projetos disponíveis no GitHub:
-
 ## 🌟 Projetos Destacados
-
-Explore alguns dos meus principais projetos disponíveis no GitHub, que mostram minha paixão por desenvolvimento e resolução de problemas através da tecnologia:
 
 ### 📚 [Course-Page](https://github.com/pablopastuchenko/Course-Page)  
 Uma plataforma para venda de cursos online, utilizando AWS e MySQL, com foco na gestão eficiente e escalabilidade.
-
 ---
 
-### 💻 [Landing](https://github.com/pablopastuchenko/landing)  
-Um projeto de página inicial responsiva, combinando design moderno com alta performance.
-
+### 💻 [Landing](https://github.com/pablopastuchenko/javaLogin)  
+Um projeto feito em Java e Spring Boot de autenticação.
 ---
 
-### 🎥 [Stream](https://github.com/pablopastuchenko/stream)  
-Aplicativo de streaming com uma interface intuitiva, criado para facilitar a produção e consumo de conteúdo multimídia.
-
+### 🎥 [Stream](https://github.com/pablopastuchenko/E-commerce-backend-java)  
+Aplicativo de e-commerce com foco em API com Java e SpringBoot e MySQL.
 ---
 
 ### 🚚 [Delivery](https://github.com/pablopastuchenko/delivery)  
 Sistema inteligente para gerenciamento de entregas, conectando clientes e entregadores de forma prática e eficiente.
-
 ---
 
-### 🎥 [Stream](https://github.com/pablopastuchenko/stream)  
-Aplicativo de streaming com uma interface intuitiva, criado para facilitar a produção e consumo de conteúdo multimídia.
-
+### 🎥 [Stream](https://github.com/pablopastuchenko/restaurant-backend)  
+API backend criada para gerenciar pedidos e entregá-los aos clientes, utilizando Node.js para alta escalabilidade e MongoDB para armazenamento eficiente de dados.
 ---
 
-### 🚚 [Delivery](https://github.com/pablopastuchenko/delivery)  
-Sistema inteligente para gerenciamento de entregas, conectando clientes e entregadores de forma prática e eficiente.
-
+### 🚚 [Delivery](https://github.com/pablopastuchenko/auth-backend)  
+Sistema de autenticação completo em Nodejs e MongoDB.
 ---
-
-🔗 **[Veja mais projetos no meu GitHub](https://github.com/pablopastuchenko)** 🚀
-
 
 #
 
@@ -79,5 +62,4 @@ Sistema inteligente para gerenciamento de entregas, conectando clientes e entreg
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+
