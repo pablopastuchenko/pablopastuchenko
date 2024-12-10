@@ -47,7 +47,6 @@ API backend criada para gerenciar pedidos e entregá-los aos clientes, utilizand
 ### 🚚 [Delivery](https://github.com/pablopastuchenko/auth-backend)  
 Sistema de autenticação completo em Nodejs e MongoDB.
 ---
-
 #
 
 ### 📊 Stats
