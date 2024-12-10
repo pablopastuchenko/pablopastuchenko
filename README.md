@@ -97,7 +97,7 @@
 - ⚡ Curiosidade: Adoro conhecer novas pessoas e experimentar diferentes tipos de comida!
 - 💬 Fale comigo sobre #cloud, #RPA, #CommunityOps, #DevRel, #oportunidades de palestras, #Marketing, #CampusOps ou qualquer outro assunto de seu interesse.
 
-![Estatísticas do GitHub de Saksham](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+![Estatísticas do GitHub de Pablo](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
 
 <!--
 **sakshamtaneja21/sakshamtaneja21** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
