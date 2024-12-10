@@ -1,18 +1,8 @@
 # 🏄‍♂️ Pablo Henrique
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Programador fullstack (Java/JavaScript/TypeScript)`**
 
 Sou um desenvolvedor backend independente, apaixonado por criar soluções digitais do zero. Cada projeto é planejado, desenhado e implementado para resolver problemas reais com código, sempre priorizando segurança e escalabilidade. Nos meus tempos livres, compartilho o que aprendo e crio conteúdos que ajudam outras pessoas a explorar o mundo da tecnologia. Estou sempre em busca de aprimorar minhas habilidades e trazer impacto positivo com minhas criações digitais.
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
@@ -34,18 +24,46 @@ Sou um desenvolvedor backend independente, apaixonado por criar soluções digit
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Projetos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![7 Design Patterns EVERY Developer Should Know](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "7 Design Patterns EVERY Developer Should Know")](https://www.youtube.com/watch?v=BJatgOiiht4)
-[![Why I’m Learning Rust in 2024 (and new dev environment)](https://ytcards.demolab.com/?id=3q3OXiyUQk4&title=Why+I%E2%80%99m+Learning+Rust+in+2024+%28and+new+dev+environment%29&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Why I’m Learning Rust in 2024 (and new dev environment)")](https://www.youtube.com/watch?v=3q3OXiyUQk4)
-[![This is Why You Don't Roll Your Own Auth](https://ytcards.demolab.com/?id=VA2RS9WN9us&title=This+is+Why+You+Don%27t+Roll+Your+Own+Auth&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981 "This is Why You Don't Roll Your Own Auth")](https://www.youtube.com/watch?v=VA2RS9WN9us)
-[![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
-[![A Day in the Life of a Software Engineer](https://ytcards.demolab.com/?id=WBl31Pyr_M8&title=A+Day+in+the+Life+of+a+Software+Engineer&lang=en&timestamp=1730376039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2259 "A Day in the Life of a Software Engineer")](https://www.youtube.com/watch?v=WBl31Pyr_M8)
-[![I Spent 40 Hours Coding This!](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "I Spent 40 Hours Coding This!")](https://www.youtube.com/watch?v=e85uJvX5geA)
-<!-- END YOUTUBE-CARDS -->
+Aqui estão alguns dos meus principais projetos disponíveis no GitHub:
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+## 🌟 Projetos Destacados
+
+Explore alguns dos meus principais projetos disponíveis no GitHub, que mostram minha paixão por desenvolvimento e resolução de problemas através da tecnologia:
+
+### 📚 [Course-Page](https://github.com/pablopastuchenko/Course-Page)  
+Uma plataforma para venda de cursos online, utilizando AWS e MySQL, com foco na gestão eficiente e escalabilidade.
+
+---
+
+### 💻 [Landing](https://github.com/pablopastuchenko/landing)  
+Um projeto de página inicial responsiva, combinando design moderno com alta performance.
+
+---
+
+### 🎥 [Stream](https://github.com/pablopastuchenko/stream)  
+Aplicativo de streaming com uma interface intuitiva, criado para facilitar a produção e consumo de conteúdo multimídia.
+
+---
+
+### 🚚 [Delivery](https://github.com/pablopastuchenko/delivery)  
+Sistema inteligente para gerenciamento de entregas, conectando clientes e entregadores de forma prática e eficiente.
+
+---
+
+### 🎥 [Stream](https://github.com/pablopastuchenko/stream)  
+Aplicativo de streaming com uma interface intuitiva, criado para facilitar a produção e consumo de conteúdo multimídia.
+
+---
+
+### 🚚 [Delivery](https://github.com/pablopastuchenko/delivery)  
+Sistema inteligente para gerenciamento de entregas, conectando clientes e entregadores de forma prática e eficiente.
+
+---
+
+🔗 **[Veja mais projetos no meu GitHub](https://github.com/pablopastuchenko)** 🚀
+
 
 #
 
