@@ -6,32 +6,28 @@
 [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 ---
 
-## Hi there 👋,
+## Olá 👋,
 
-### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
+### Sou Saksham Taneja, um entusiasta de comunidades que ama tecnologia e se considera um apaixonado por produtos.
 -------
-  
-## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+## 🧐 Sobre
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- 🏄‍ Amo participar de comunidades e ajudar estudantes a crescer.
+- 😄 Geralmente, participo de hackathons como #Mentor, #Participante e #Organizador.
+- 🔭 Atualmente, sou MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, ex-líder do Google DSC, e participei de diversas comunidades e programas de grande relevância.
+- 🌱 Adoro falar em eventos públicos e já fui palestrante em diversos eventos. Também organizo workshops e webinars para ajudar comunidades estudantis.
+- 👯 E muito mais...
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá, mundo!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+- 💬 Pergunte-me sobre qualquer coisa!
+- 📫 Como me encontrar: envie uma mensagem no [WhatsApp](https://wa.me/919829599750).
+- ⚡ Curiosidade: Adoro conhecer novas pessoas e experimentar diferentes tipos de comida!
+- 💬 Fale comigo sobre #cloud, #RPA, #CommunityOps, #DevRel, #oportunidades de palestras, #Marketing, #CampusOps ou qualquer outro assunto de seu interesse.
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+![Estatísticas do GitHub de Saksham](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
 
 <!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
+**sakshamtaneja21/sakshamtaneja21** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 -->
