@@ -24,29 +24,30 @@ Sou um desenvolvedor backend independente, apaixonado por criar soluções digit
 
 ## 🌟 Projetos Destacados
 
-### 📚 [Course-Page](https://github.com/pablopastuchenko/Course-Page)  
+### 📚 [Course-Page API](https://github.com/pablopastuchenko/Course-Page)  
 Uma plataforma para venda de cursos online, utilizando AWS e MySQL, com foco na gestão eficiente e escalabilidade.
 ---
 
-### 💻 [Landing](https://github.com/pablopastuchenko/javaLogin)  
+### 💻 [Autenticação Java API](https://github.com/pablopastuchenko/javaLogin)  
 Um projeto feito em Java e Spring Boot de autenticação.
 ---
 
-### 🎥 [Stream](https://github.com/pablopastuchenko/E-commerce-backend-java)  
+### 🎥 [E-commerce API](https://github.com/pablopastuchenko/E-commerce-backend-java)  
 Aplicativo de e-commerce com foco em API com Java e SpringBoot e MySQL.
 ---
 
-### 🚚 [Delivery](https://github.com/pablopastuchenko/delivery)  
+### 🚚 [Delivery Api](https://github.com/pablopastuchenko/delivery)  
 Sistema inteligente para gerenciamento de entregas, conectando clientes e entregadores de forma prática e eficiente.
 ---
 
-### 🎥 [Stream](https://github.com/pablopastuchenko/restaurant-backend)  
+### 🎥 [Restaurant API](https://github.com/pablopastuchenko/restaurant-backend)  
 API backend criada para gerenciar pedidos e entregá-los aos clientes, utilizando Node.js para alta escalabilidade e MongoDB para armazenamento eficiente de dados.
 ---
 
-### 🚚 [Delivery](https://github.com/pablopastuchenko/auth-backend)  
+### 🚚 [Atenticação Nodejs](https://github.com/pablopastuchenko/auth-backend)  
 Sistema de autenticação completo em Nodejs e MongoDB.
 ---
+
 #
 
 ### 📊 Stats
