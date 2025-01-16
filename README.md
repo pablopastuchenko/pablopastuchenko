@@ -1,6 +1,6 @@
 # 🏄‍♂️ Pablo Henrique
 
-**`Programador fullstack (Java/JavaScript/TypeScript)`**
+**`Programador fullstack (Golang/Nodejs)`**
 
 Sou um desenvolvedor backend independente, apaixonado por criar soluções digitais do zero. Cada projeto é planejado, desenhado e implementado para resolver problemas reais com código, sempre priorizando segurança e escalabilidade. Nos meus tempos livres, compartilho o que aprendo e crio conteúdos que ajudam outras pessoas a explorar o mundo da tecnologia. Estou sempre em busca de aprimorar minhas habilidades e trazer impacto positivo com minhas criações digitais.
 
