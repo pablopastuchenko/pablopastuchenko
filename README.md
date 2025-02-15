@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pablo Henrique
 
-**`Desenvolvedora Backend GO/NodeJs`**
+**`Desenvolvedora Backend GO/NodeJs/Java`**
 
 Sou um desenvolvedor backend independente, apaixonado por criar soluções digitais do zero. Cada projeto é planejado, desenhado e implementado para resolver problemas reais com código, sempre priorizando segurança e escalabilidade. Nos meus tempos livres, compartilho o que aprendo e crio conteúdos que ajudam outras pessoas a explorar o mundo da tecnologia. Estou sempre em busca de aprimorar minhas habilidades e trazer impacto positivo com minhas criações digitais.
 
@@ -10,7 +10,22 @@ Sou um desenvolvedor backend independente, apaixonado por criar soluções digit
 
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 <img 
     align="left" 
     alt="Golang"
